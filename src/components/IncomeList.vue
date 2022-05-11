@@ -2,7 +2,7 @@
   <section>
     <div class="income-item">
       <div class="space desc">{{ data.income }}</div>
-      <div class="space price">${{ data.price }}</div>
+      <div class="space price">${{ data.price.toLocaleString("en-US") }}</div>
       <div class="space date">{{ data.date }}</div>
       <div class="btn">
         <div class="btn-edit" @click.prevent="updateIncome">update</div>
