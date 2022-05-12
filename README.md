@@ -21,7 +21,7 @@ $ cd vue-income-tracker-with-appwrite/
 $ yarn install
 ```
 
-3. Compiles and hot-reloads for development at `localhost:8081`
+3. Compiles and hot-reloads for development at `localhost:8080`
 ```
 $ yarn serve
 ```
