@@ -1,4 +1,3 @@
-// 627acf30d9ca546f3273
 import {Appwrite} from 'appwrite';
 
 // Init your Web SDK
