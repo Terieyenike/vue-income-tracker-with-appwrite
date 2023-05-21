@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Income Tracker</h1>
+    <h1>Income Tracker.</h1>
     <div class="total-income">
       ${{sum.toLocaleString("en-US")}}
 
